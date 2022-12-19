@@ -1,5 +1,5 @@
 {
-        "vitamina D": [
+        "vitaminaD": [
             {
                 "id": 1,
                 "produto": "DePURA 500 UI/Gota-10 ML",
@@ -11,7 +11,7 @@
         ],
     
         
-        "cálcio": [
+        "calcio": [
             {
                 "id": 2,
                 "produto": "Osteo Nutri",
@@ -23,7 +23,7 @@
         ],
     
         
-        "Colágeno": [
+        "Colageno": [
             {
                 "id": 3,
                 "produto": "Mobility 30 Sachês",
@@ -47,7 +47,7 @@
         ],
     
         
-        "Estimulante de apetite": [
+        "EstimulanteDeApetite": [
             {
                 "id": 5,
                 "produto": "Biotônico Fontoura Original com 400ml",
